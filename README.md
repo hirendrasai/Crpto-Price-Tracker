@@ -3,6 +3,8 @@
 
 A real-time cryptocurrency price tracking application built with React and Redux. Track live prices, market caps, and price changes for major cryptocurrencies with a clean, responsive interface.
 
+![Crypto Price Tracker Screenshot](./screenshot.png)
+
 ## Features
 
 - Real-time price updates
